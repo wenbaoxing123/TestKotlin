@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fc2ce51b48a234be40c97da214bb0d64e88a0599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_97fec4509fd369d7e270f5a83138b39b5d2ff78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_57b9cf00156bde97641ea03598a56ec2a48aee5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_1dd88f541bbbec9963f097d4b75d8cedd4d063c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_3e7277953c8a373295535845b9837b243b58e04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_52a79bd81924440477a946e29822be97dab37f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.5-2/9a397ba5477bf49ae0418cc3e392b3c0e5a112d1/kotlin-stdlib-1.0.5-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a397ba5477bf49ae0418cc3e392b3c0e5a112d1">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.0.5-2_ae1c63d62f5cd710f21f941f025783c8f1ba424e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.5-2/16ba409719189072db06433a3c381015c0877998/kotlin-runtime-1.0.5-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16ba409719189072db06433a3c381015c0877998">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/kotlin-runtime-1.0.5-2_fd7bea212d62530afb91cb0fb8050da78d96241c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fe61815b4f3e7e7c0bb0e2ddfdb4c4f6a6228b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_58dd359e0c2f063868984e389d0b2814796d15b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ed216f0f2ce5c312c1d82d83caf0fe5ee187bd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_95d5e00650c7dea594129e5abc79d62d29a8ab2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_e246aa4f66fd20f49561f5a153ade8fde7140c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_8ec8914eabc2e7e82b0bb41e5543f81127381555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_bfc4ab72daa98a6b5c6d7d3dacae2029c56a4359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_69333a732c341bda19bac794d07f45b2399f5ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/wenbaoxing/Desktop/project/TestKotlin/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c02e0f81fe09d70953ffab43ecaff0281361f46a.jar" />
+    </item>
+
+</items>
