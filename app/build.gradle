@@ -38,6 +38,9 @@ dependencies {
     compile 'org.jetbrains.anko:anko-support-v4:0.8.2' // In case you need support-v4 bindings
     compile 'org.jetbrains.anko:anko-appcompat-v7:0.8.2' // For appcompat-v7 bindings
 
+    //Picasso
+    compile "com.squareup.picasso:picasso:$picasso_version"
+
     compile "com.android.support:recyclerview-v7:$support_version"
     compile "com.android.support:appcompat-v7:$support_version"
     testCompile 'junit:junit:4.12'
