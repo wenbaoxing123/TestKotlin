@@ -3,7 +3,6 @@ package com.mtime.testkotlin
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
-import android.support.v7.widget.RecyclerView
 import com.mtime.testkotlin.domain.RequestForecastCommand
 import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.async
@@ -33,7 +32,9 @@ class MainActivity : AppCompatActivity() {
 
         tv.text = "Hello Kotlin!"
 
-        val forecastList = findViewById(R.id.forecast_list) as RecyclerView
+        //使用Kotlin Android Extensions就不用findViewById了
+//        val forecastList = findViewById(R.id.forecast_list) as RecyclerView
+
         forecastList.layoutManager = LinearLayoutManager(this)
 
         async() {
