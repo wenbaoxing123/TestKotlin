@@ -54,7 +54,13 @@ class ForecastListAdapter(val weekForecast: ForecastList, val itemClick: (Foreca
                 maxTemperatureView.text = "${high.toString()}"
                 minTemperatureView.text = "${low.toString()}"
                 itemView.setOnClickListener { itemClick(forecast) }
+
+                //使用Lambda
 //                itemView.setOnClickListener { itemView.ctx.toast("itemclick")}
+//                itemView.setOnClickListener ({view -> itemView.ctx.toast("itemclick")})
+//                itemView.setOnClickListener ({itemView.ctx.toast("itemclick")})
+//                itemView.setOnClickListener (){itemView.ctx.toast("itemclick")}
+//                itemView.setOnClickListener {itemView.ctx.toast("itemclick")}
             }
         }
 
