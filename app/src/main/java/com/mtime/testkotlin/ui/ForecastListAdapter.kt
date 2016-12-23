@@ -1,10 +1,11 @@
-package com.mtime.testkotlin
+package com.mtime.testkotlin.ui
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.mtime.testkotlin.ForecastListAdapter.ViewHolder
+import com.mtime.testkotlin.R
+import com.mtime.testkotlin.ui.ForecastListAdapter.ViewHolder
 import com.mtime.testkotlin.domain.model.Forecast
 import com.mtime.testkotlin.domain.model.ForecastList
 import com.mtime.testkotlin.extensions.ctx

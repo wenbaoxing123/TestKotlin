@@ -1,8 +1,9 @@
-package com.mtime.testkotlin
+package com.mtime.testkotlin.ui
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
+import com.mtime.testkotlin.R
 import com.mtime.testkotlin.domain.RequestForecastCommand
 import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.async

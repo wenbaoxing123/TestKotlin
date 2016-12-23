@@ -1,9 +1,9 @@
-package com.mtime.testkotlin
+package com.mtime.testkotlin.ui
 
 import android.support.v7.widget.RecyclerView
 import android.view.ViewGroup
 import android.widget.TextView
-import com.mtime.testkotlin.ForecastListAdapter1.ViewHolder
+import com.mtime.testkotlin.ui.ForecastListAdapter1.ViewHolder
 
 /**
  * Created by wenbaoxing on 16/12/19.
